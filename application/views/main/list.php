@@ -233,12 +233,6 @@ function delstud(id){
 	});
 }
 }
-
-
-
 </script>
-
-
-
 </body>
 </html>
